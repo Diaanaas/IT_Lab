@@ -1,0 +1,23 @@
+
+	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(û·¾¤J$34420fad-a852-4587-a92c-890295c24193
+	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(·İ¿ÔJ$fcae34bb-d489-47c2-a61c-4e97937e47db
+	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(›Ï‚‚J$9f65ea19-1563-4227-a1c3-ba38feda5758
+†	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(ôˆÁ™ıÿÿÿÿJ$4fb134fd-09f1-4929-8ec2-fc57b497dc08
+	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(±µ—ÜJ$1f1e6a79-2ca0-4340-8444-5c5c3dc97204
+	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(›Ï‚‚J$0f77b6c5-f850-40b6-b3b7-e3c120297a74
+†	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(ôˆÁ™ıÿÿÿÿJ$6b1bdbc0-df48-40b7-b58f-134dbf5809aa
+	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(ü‚¾Çùÿÿÿÿ8’†ò»¨2J$0928b3c0-7a47-4fe2-8704-afcbebfa0f45
+	java:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(¦Üä¥ùÿÿÿÿ8“†ò»¨2J$6fd28735-aec1-4108-8a73-d9134bea6627
+	java:S112œ"FDefine and throw a dedicated exception instead of using a generic one.(õ³ßºşÿÿÿÿ8“†ò»¨2J$27c1d2b7-b18f-4bcf-95fe-85446d5887d5
+’
+java:S1206§"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿJ$db110426-ba36-45a0-8803-5989d7c80d9c
+{
+java:S1117":Rename "column" which hides the field declared at line 22.(Æ•À”ûÿÿÿÿJ$6707cf06-5941-465e-9467-80aab58e306a
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8®ó»¨2J$c3303313-c680-40b0-8040-cebe07d55465
+n
+java:S1128	"+Remove this unused import 'java.util.Date'.(¸…¼ü8Áìò»¨2J$a0ee0fa9-f3bd-4d93-8c73-5583706ba639
+w
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8²«ó»¨2J$b8c789a2-a53f-4fac-ae2c-f5d0c4913c7f
+|
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8³«ó»¨2J$47fee537-4e50-474d-9719-7710a462736d

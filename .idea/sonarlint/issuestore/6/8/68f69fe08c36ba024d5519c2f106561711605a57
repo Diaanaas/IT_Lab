@@ -1,0 +1,20 @@
+
+	java:S112ù"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8‰¸»¨2J$f14bbe8d-1721-455d-a17a-c3fa498fa391
+k
+java:S3740"/Provide the parametrized type for this generic.(ÁêÒJ$877ac57e-9f29-4b6b-b28f-c8e9cebf3518
+k
+java:S3740"/Provide the parametrized type for this generic.(ÁêÒJ$d32fc6dc-b562-493f-b6d7-4dd618e218da
+k
+java:S3740"/Provide the parametrized type for this generic.(İß£J$7892ca4d-b0ca-40eb-8238-0f31593f0e94
+k
+java:S3740"/Provide the parametrized type for this generic.(İß£J$000e1adc-f40c-4dce-a7c8-632f3908b754
+q
+java:S3740Œ"/Provide the parametrized type for this generic.(ÛÛ³ÊüÿÿÿÿJ$16e020c2-f6e1-4c35-8418-b9a0e5b32b6d
+Š
+java:S11926"IDefine a constant instead of duplicating this literal "user.dir" 3 times.(¦Àê¤úÿÿÿÿJ$9c2f6d28-c422-4958-945d-d4d5a83e5d35
+
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(­›¨ìJ$df739008-cb32-40e4-9065-511eeaa02fbc
+‚	java:S899^"BDo something with the "boolean" value returned by "createNewFile".(ç×”úÿÿÿÿJ$0218b752-6bed-455c-85dc-7f0dacc6cbbc
+f	java:S106h"+Replace this use of System.out by a logger.(íÈ»áJ$64e41814-6226-497c-9718-42bfa52ed4f7
+h
+java:S1602£",Remove useless curly braces around statement(®ÔöJ$7c109484-bcd7-4fc7-bdcd-63ca07cc1c84

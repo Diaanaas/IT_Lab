@@ -1,0 +1,15 @@
+
+	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(û·¾¤J$fca18177-7f38-4625-a56d-e63c98004382
+	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(·İ¿ÔJ$4399dc56-8ab2-4e1e-a6e1-df9941e43b5e
+	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(›Ï‚‚J$25c25e67-b6aa-440e-a61d-b439e8c1af5e
+†	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(ôˆÁ™ıÿÿÿÿJ$6b43f9ef-6eec-42ef-b469-b4facd228cfe
+	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(±µ—ÜJ$57f70e17-a0e6-407b-a226-a15a17062d16
+	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(›Ï‚‚J$b23f156f-c1f5-4fed-8aaf-d8fe817b306e
+†	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(ôˆÁ™ıÿÿÿÿJ$24155712-8feb-4abf-9704-9e9565f06f3a
+†	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(ü‚¾ÇùÿÿÿÿJ$28184cda-c959-46ab-8363-4f665f9f880c
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¦Üä¥ùÿÿÿÿJ$7d494bf9-f228-43e5-8a97-9f3f93fb6edd
+‡	java:S112˜"FDefine and throw a dedicated exception instead of using a generic one.(õ³ßºşÿÿÿÿJ$72632c27-4fe3-4bbe-9351-6cf142a5a3ea
+’
+java:S1206£"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿJ$848e824e-a153-4656-ac1f-ffbbff227392
+{
+java:S1117{":Rename "column" which hides the field declared at line 18.(Æ•À”ûÿÿÿÿJ$3607d773-b761-4d6f-a943-7ff325d93380
