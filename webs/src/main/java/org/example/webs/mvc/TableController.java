@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.servlet.view.RedirectView;
 
 @Controller
 @RequestMapping("/mvc")
@@ -28,22 +29,22 @@ public class TableController {
     }
 
     @PostMapping("/tables/create")
-    public String createTable(@RequestParam String tableName,
+    public RedirectView createTable(@RequestParam String tableName,
                               @RequestParam String columns,
                               Model model) throws ApiException {
         final var database = databaseService.getDatabase();
         Result result = database.query(String.format("create table %s (%s)", tableName, columns));
         model.addAttribute(RESULT, result);
-        return TABLES;
+        return new RedirectView("/mvc/tables");
     }
 
     @PostMapping("/tables/delete")
-    public String dropTable(@RequestParam String tableName,
+    public RedirectView dropTable(@RequestParam String tableName,
                             Model model) throws ApiException {
         final var database = databaseService.getDatabase();
         Result result = database.query(String.format("remove table %s", tableName));
         model.addAttribute(RESULT, result);
-        return TABLES;
+        return new RedirectView("/mvc/tables");
     }
 
     @PostMapping("/tables/combine")

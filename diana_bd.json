@@ -1,0 +1,61 @@
+{
+  "filePath": "D:\\java\\diana_it_lab\\diana_bd.json",
+  "tables": {
+    "diana_2": {
+      "name": "diana_2",
+      "rows": [
+        {
+          "elements": {
+            "moneyinv": {
+              "value": "$600.00;$700.00",
+              "column": "moneyinv"
+            }
+          }
+        }
+      ],
+      "columns": {
+        "moneyinv": {
+          "type": "MONEY_INV",
+          "name": "moneyinv",
+          "nullAllowed": true
+        }
+      }
+    },
+    "diana_1": {
+      "name": "diana_1",
+      "rows": [
+        {
+          "elements": {
+            "moneyinv": {
+              "value": "$123.00",
+              "column": "moneyinv"
+            }
+          }
+        },
+        {
+          "elements": {
+            "moneyinv": {
+              "value": "$150.00;$200.45",
+              "column": "moneyinv"
+            }
+          }
+        },
+        {
+          "elements": {
+            "moneyinv": {
+              "value": "$123.00;$1,000.00",
+              "column": "moneyinv"
+            }
+          }
+        }
+      ],
+      "columns": {
+        "moneyinv": {
+          "type": "MONEY_INV",
+          "name": "moneyinv",
+          "nullAllowed": true
+        }
+      }
+    }
+  }
+}
